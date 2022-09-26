@@ -1,0 +1,14 @@
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\bin\Debug\netcoreapp3.1\Polymorphisme.exe
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\bin\Debug\netcoreapp3.1\Polymorphisme.deps.json
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\bin\Debug\netcoreapp3.1\Polymorphisme.runtimeconfig.json
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\bin\Debug\netcoreapp3.1\Polymorphisme.runtimeconfig.dev.json
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\bin\Debug\netcoreapp3.1\Polymorphisme.dll
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\bin\Debug\netcoreapp3.1\Polymorphisme.pdb
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.csproj.AssemblyReference.cache
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.AssemblyInfoInputs.cache
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.AssemblyInfo.cs
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.csproj.CoreCompileInputs.cache
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.dll
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.pdb
+C:\Users\oktor\source\repos\Polymorphisme\Polymorphisme\obj\Debug\netcoreapp3.1\Polymorphisme.genruntimeconfig.cache

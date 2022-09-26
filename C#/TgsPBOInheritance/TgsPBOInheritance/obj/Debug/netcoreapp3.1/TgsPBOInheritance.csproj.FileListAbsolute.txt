@@ -1,0 +1,14 @@
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\bin\Debug\netcoreapp3.1\TgsPBOInheritance.exe
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\bin\Debug\netcoreapp3.1\TgsPBOInheritance.deps.json
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\bin\Debug\netcoreapp3.1\TgsPBOInheritance.runtimeconfig.json
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\bin\Debug\netcoreapp3.1\TgsPBOInheritance.runtimeconfig.dev.json
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\bin\Debug\netcoreapp3.1\TgsPBOInheritance.dll
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\bin\Debug\netcoreapp3.1\TgsPBOInheritance.pdb
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.csproj.AssemblyReference.cache
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.AssemblyInfoInputs.cache
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.AssemblyInfo.cs
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.csproj.CoreCompileInputs.cache
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.dll
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.pdb
+C:\Users\oktor\source\repos\TgsPBOInheritance\TgsPBOInheritance\obj\Debug\netcoreapp3.1\TgsPBOInheritance.genruntimeconfig.cache

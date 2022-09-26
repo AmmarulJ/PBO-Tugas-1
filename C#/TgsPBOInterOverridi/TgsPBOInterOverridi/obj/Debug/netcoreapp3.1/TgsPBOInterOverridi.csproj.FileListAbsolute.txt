@@ -1,0 +1,13 @@
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\bin\Debug\netcoreapp3.1\TgsPBOInterOverridi.exe
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\bin\Debug\netcoreapp3.1\TgsPBOInterOverridi.deps.json
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\bin\Debug\netcoreapp3.1\TgsPBOInterOverridi.runtimeconfig.json
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\bin\Debug\netcoreapp3.1\TgsPBOInterOverridi.runtimeconfig.dev.json
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\bin\Debug\netcoreapp3.1\TgsPBOInterOverridi.dll
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\bin\Debug\netcoreapp3.1\TgsPBOInterOverridi.pdb
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\obj\Debug\netcoreapp3.1\TgsPBOInterOverridi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\obj\Debug\netcoreapp3.1\TgsPBOInterOverridi.AssemblyInfoInputs.cache
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\obj\Debug\netcoreapp3.1\TgsPBOInterOverridi.AssemblyInfo.cs
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\obj\Debug\netcoreapp3.1\TgsPBOInterOverridi.csproj.CoreCompileInputs.cache
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\obj\Debug\netcoreapp3.1\TgsPBOInterOverridi.dll
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\obj\Debug\netcoreapp3.1\TgsPBOInterOverridi.pdb
+C:\Users\oktor\source\repos\TgsPBOInterOverridi\TgsPBOInterOverridi\obj\Debug\netcoreapp3.1\TgsPBOInterOverridi.genruntimeconfig.cache
